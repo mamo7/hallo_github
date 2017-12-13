@@ -1,3 +1,5 @@
 # hallo_github
 meine erstes Projekt auf  GitHub. Hier erfährst du ein wenig über mich. 
-hLLO
+
+test a gtihub is a repository for  showing the bare minimus of github. 
+
